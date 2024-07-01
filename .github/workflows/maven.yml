@@ -28,7 +28,7 @@ jobs:
         distribution: 'zulu'
     - name: Show java version
       run: "java --version"
-    - name: Show java version
+    - name: Checkoute code
       uses: actions/setup-java@v3
       with:
         ref: jenk
