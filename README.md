@@ -1,1 +1,1 @@
-# Git_action
+# Github Action. Continuous Integration
